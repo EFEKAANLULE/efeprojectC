@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{17DB71F9-2FC8-4D5C-95BE-32263F337969}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Business FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Business/Class1.cs">
+    <Files>
+      <File FileName="Business/Class1.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="efeprojec" expanded="True">
+            <Node name="Business" expanded="True">
+              <Node name="Class1.cs" selected="True" />
+            </Node>
+            <Node name="MVC" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DataAccess FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.MVC PreferredExecutionTarget="/Applications/Google Chrome.app" FirstBuild="True" />
+</Properties>

@@ -1,0 +1,17 @@
+/Users/efekaanlule/Desktop/efeprojec/DataAccess/bin/Debug/net8.0/DataAccess.deps.json
+/Users/efekaanlule/Desktop/efeprojec/DataAccess/bin/Debug/net8.0/DataAccess.runtimeconfig.json
+/Users/efekaanlule/Desktop/efeprojec/DataAccess/bin/Debug/net8.0/DataAccess.dll
+/Users/efekaanlule/Desktop/efeprojec/DataAccess/bin/Debug/net8.0/DataAccess.pdb
+/Users/efekaanlule/Desktop/efeprojec/DataAccess/bin/Debug/net8.0/Business.dll
+/Users/efekaanlule/Desktop/efeprojec/DataAccess/bin/Debug/net8.0/Business.pdb
+/Users/efekaanlule/Desktop/efeprojec/DataAccess/obj/Debug/net8.0/DataAccess.csproj.AssemblyReference.cache
+/Users/efekaanlule/Desktop/efeprojec/DataAccess/obj/Debug/net8.0/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/efekaanlule/Desktop/efeprojec/DataAccess/obj/Debug/net8.0/DataAccess.AssemblyInfoInputs.cache
+/Users/efekaanlule/Desktop/efeprojec/DataAccess/obj/Debug/net8.0/DataAccess.AssemblyInfo.cs
+/Users/efekaanlule/Desktop/efeprojec/DataAccess/obj/Debug/net8.0/DataAccess.csproj.CoreCompileInputs.cache
+/Users/efekaanlule/Desktop/efeprojec/DataAccess/obj/Debug/net8.0/DataAccess.csproj.Up2Date
+/Users/efekaanlule/Desktop/efeprojec/DataAccess/obj/Debug/net8.0/DataAccess.dll
+/Users/efekaanlule/Desktop/efeprojec/DataAccess/obj/Debug/net8.0/refint/DataAccess.dll
+/Users/efekaanlule/Desktop/efeprojec/DataAccess/obj/Debug/net8.0/DataAccess.pdb
+/Users/efekaanlule/Desktop/efeprojec/DataAccess/obj/Debug/net8.0/DataAccess.genruntimeconfig.cache
+/Users/efekaanlule/Desktop/efeprojec/DataAccess/obj/Debug/net8.0/ref/DataAccess.dll

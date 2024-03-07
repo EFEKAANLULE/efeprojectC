@@ -1,0 +1,14 @@
+/Users/efekaanlule/Desktop/efeprojec/Business/bin/Debug/net8.0/Business.deps.json
+/Users/efekaanlule/Desktop/efeprojec/Business/bin/Debug/net8.0/Business.runtimeconfig.json
+/Users/efekaanlule/Desktop/efeprojec/Business/bin/Debug/net8.0/Business.dll
+/Users/efekaanlule/Desktop/efeprojec/Business/bin/Debug/net8.0/Business.pdb
+/Users/efekaanlule/Desktop/efeprojec/Business/obj/Debug/net8.0/Business.csproj.AssemblyReference.cache
+/Users/efekaanlule/Desktop/efeprojec/Business/obj/Debug/net8.0/Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/efekaanlule/Desktop/efeprojec/Business/obj/Debug/net8.0/Business.AssemblyInfoInputs.cache
+/Users/efekaanlule/Desktop/efeprojec/Business/obj/Debug/net8.0/Business.AssemblyInfo.cs
+/Users/efekaanlule/Desktop/efeprojec/Business/obj/Debug/net8.0/Business.csproj.CoreCompileInputs.cache
+/Users/efekaanlule/Desktop/efeprojec/Business/obj/Debug/net8.0/Business.dll
+/Users/efekaanlule/Desktop/efeprojec/Business/obj/Debug/net8.0/refint/Business.dll
+/Users/efekaanlule/Desktop/efeprojec/Business/obj/Debug/net8.0/Business.pdb
+/Users/efekaanlule/Desktop/efeprojec/Business/obj/Debug/net8.0/Business.genruntimeconfig.cache
+/Users/efekaanlule/Desktop/efeprojec/Business/obj/Debug/net8.0/ref/Business.dll
